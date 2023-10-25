@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [Leads](Leads.md)
-- [Clients](Clients.md)
+- [Clients](modules/Clients.md)
 - HR Module
     - [Employees](Employees.md)
     - [Leaves](Leaves.md)
