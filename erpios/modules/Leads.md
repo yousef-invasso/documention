@@ -4,14 +4,14 @@
 
 Leads are potential customers interested in your organization's products or services. These inquiries are vital for engaging with and converting into satisfied clients.
 
-![Untitled](Leads%20Module%203761549980614a4b8d3981a16881c5e8/Untitled.png)
+![Untitled](Leads/Untitled.png)
 
 ### **Data Formats**
 
 - **List Format**: Displays lead details including Client's Name, Company's Name, Creation Date, Lead Agent, Scheduled Follow-Up, Status, and offers options for viewing, editing, deleting, or converting leads into clients.
 - **Kan-Ban Board Format**: An alternative view for managing leads.
 
-![Untitled](Leads%20Module%203761549980614a4b8d3981a16881c5e8/Untitled%201.png)
+![Untitled](Leads/Untitled%201.png)
 
 ### **Individual Lead Details**
 
@@ -24,7 +24,7 @@ To explore lead details, there are four tabs:
 
 These tabs allow you to add files, follow-up details, create proposals, and export the list for offline access.
 
-![Untitled](Leads%20Module%203761549980614a4b8d3981a16881c5e8/Untitled%202.png)
+![Untitled](Leads/Untitled%202.png)
 
 ## **Adding Leads**
 
@@ -56,6 +56,6 @@ To add new leads to your database:
 
 Customize lead forms to gather only the necessary information for your organization. These forms are visible to individuals when they submit their queries, and fields can be enabled or disabled based on your organization's preferences.
 
-![Untitled](Leads%20Module%203761549980614a4b8d3981a16881c5e8/Untitled%203.png)
+![Untitled](Leads/Untitled%203.png)
 
 ![Untitled](Leads%20Module%203761549980614a4b8d3981a16881c5e8/Untitled%204.png)
