@@ -1,6 +1,6 @@
-# Messages Module
+# Messages
 
-## Messages
+## Overview
 
 Messages are a vital form of communication that transmits information, news, advice, requests, or other data among two or more parties. This module serves as a dedicated space for recording and managing messages shared between individuals or groups within an organization. It allows seamless communication without relying on third-party platforms, keeping all communication and data within a unified space.
 
