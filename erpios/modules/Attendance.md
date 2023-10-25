@@ -4,7 +4,7 @@
 
 The Attendance Section within the HR Module compiles the entire attendance data for the organization's employees in an easy-to-view format. Users can also choose the member-view format for a more detailed perspective.
 
-![Untitled](Attendance%205d2bf8abf49240d497af0efb4c251425/Untitled.png)
+![Untitled](Attendance/Untitled.png)
 
 ### Easy-to-View Format
 
