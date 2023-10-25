@@ -4,7 +4,7 @@
 
 Clients are active customers of the organization listed under this subsection of the Customers module. This section records individual client data, including name, email, status, creation date, and provides options for viewing, editing, and deletion.
 
-![Untitled](Clients%20Module%20a3b6359bc2354639b3b35451b2ea3e82/Untitled.png)
+![Untitled](Clients/Untitled.png)
 
 ### Creating a Client
 
