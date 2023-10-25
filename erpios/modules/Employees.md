@@ -6,7 +6,7 @@ An employee is an individual who provides services to an organization in exchang
 
 ### Employee Records
 
-![Untitled](Employees%20dc0d6cf8cdec41e4a34d5747f5849b83/Untitled.png)
+![Untitled](Employees/Untitled.png)
 
 Employee data is organized in a tabular format, including Name, Email, Role, Status, and a Descriptive View. You can also manage permissions for editing and deletion. To explore an individual's profile in more detail, click on the employee's name.
 
@@ -16,7 +16,7 @@ You can add employees manually, inputting all their details, or through an invit
 
 ### Individual Employee Profiles
 
-![Untitled](Employees%20dc0d6cf8cdec41e4a34d5747f5849b83/Untitled%201.png)
+![Untitled](Employees/Untitled%201.png)
 
 When you access individual employee profiles, you can dive deeper into their information by section:
 
