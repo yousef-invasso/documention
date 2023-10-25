@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [Leads](Leads.md)
+- [Leads](./modules/Leads.md)
 - [Clients](./modules/Clients.md)
 - HR Module
     - [Employees](Employees.md)
