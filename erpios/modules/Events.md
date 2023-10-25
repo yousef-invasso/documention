@@ -1,6 +1,6 @@
-# Events Module
+# Events
 
-## Events
+## Overview
 
 An event is a social occasion organized to mark something unusual or important. The Events module in the software provides a space for recording all significant dates and special occasions that need to be recognized by employees within the organization. This module also serves as a space to schedule meetings and organizational tasks, offering a combined solution for both employees and the organization as a whole.
 
@@ -8,13 +8,13 @@ An event is a social occasion organized to mark something unusual or important. 
 
 The Events module allows users to view the event list in multiple formats, depending on their preferences. Users can choose from monthly, weekly, or daily views of the calendar. To enhance organization, it's possible to color-code different events with various colors when adding them to the calendar.
 
-![otzhyQ3YWrSKiCrEHnDHjp9igHfMmjXdxA.png](Events%20Module%207fcc78ec514141edb7da7817ec2666af/otzhyQ3YWrSKiCrEHnDHjp9igHfMmjXdxA.png)
+![otzhyQ3YWrSKiCrEHnDHjp9igHfMmjXdxA.png](Events/otzhyQ3YWrSKiCrEHnDHjp9igHfMmjXdxA.png)
 
 ### Adding Events
 
 To add new events to the event list, users can utilize the "Add Event" option located in the top left corner. Clicking on this option will open a pre-generated form, where users can input the following details:
 
-![xzPOixgmvu6GiB9YBsRCUYMuIg_zloFB0A.png](Events%20Module%207fcc78ec514141edb7da7817ec2666af/xzPOixgmvu6GiB9YBsRCUYMuIg_zloFB0A.png)
+![xzPOixgmvu6GiB9YBsRCUYMuIg_zloFB0A.png](Events/xzPOixgmvu6GiB9YBsRCUYMuIg_zloFB0A.png)
 
 1. **Event Name**: A descriptive name for the event to make it easily recognizable.
 2. **Label Color**: Assign a specific color code to the event for visual differentiation.
