@@ -1,10 +1,10 @@
 # Proposal
 
-# Overview
+## Overview
 
 The Proposal section is primarily designed for leads. It functions as a repository for proposed budgets and project details submitted by leads. Once a proposal is approved, it can be converted into a contract, and the lead can transition into a client.
 
-![59pCWZN9rGd6cUtIYVREMaFYvZ2H20mWRg.png](Proposal%20e0e4f1b1095f42f199d67ed7b4eb307a/59pCWZN9rGd6cUtIYVREMaFYvZ2H20mWRg.png)
+![59pCWZN9rGd6cUtIYVREMaFYvZ2H20mWRg.png](Proposal/59pCWZN9rGd6cUtIYVREMaFYvZ2H20mWRg.png)
 
 ## Data Format
 
@@ -21,7 +21,7 @@ Data in this section is organized in a tabular format, displaying the following 
 
 To create a new proposal, use the "Create Proposal" option, located in the top left corner. This involves providing essential details, including:
 
-![_CHCx6ODoAqbECSPRwCMUzATgfSs4b0blw.png](Proposal%20e0e4f1b1095f42f199d67ed7b4eb307a/_CHCx6ODoAqbECSPRwCMUzATgfSs4b0blw.png)
+![_CHCx6ODoAqbECSPRwCMUzATgfSs4b0blw.png](Proposal/_CHCx6ODoAqbECSPRwCMUzATgfSs4b0blw.png)
 
 - Lead's name
 - Validity date
@@ -36,7 +36,7 @@ To create a new proposal, use the "Create Proposal" option, located in the top l
 
 Once a proposal is created and saved in the system, it can be easily viewed. Individual proposals provide a concise overview of all essential information. This viewable document also offers the option to download it as a PDF file, providing flexibility to users based on their preferences.
 
-![R-UgQM3lANFpD0X1f4skWpCnDNltajvnUw.png](Proposal%20e0e4f1b1095f42f199d67ed7b4eb307a/R-UgQM3lANFpD0X1f4skWpCnDNltajvnUw.png)
+![R-UgQM3lANFpD0X1f4skWpCnDNltajvnUw.png](Proposal/R-UgQM3lANFpD0X1f4skWpCnDNltajvnUw.png)
 
 ## Negotiation
 
