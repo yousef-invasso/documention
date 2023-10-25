@@ -4,13 +4,13 @@
 
 The Tasks sheet within the Work Module manages information for all tasks assigned to teams or individuals. This section compiles task data, covering the overall progress of the selected project. Data is presented in a tabular format, including task Title/Name, associated Project, Due date, assigned Members, task status, and additional options like descriptive view, editing, and deletion.
 
-![xTxIIF8UvAPyx7R-BlKdDwkLiWmbgUspmQ.png](Tasks%20894b2282d8444977b72a31ad7a2d8f7c/xTxIIF8UvAPyx7R-BlKdDwkLiWmbgUspmQ.png)
+![xTxIIF8UvAPyx7R-BlKdDwkLiWmbgUspmQ.png](Tasks/xTxIIF8UvAPyx7R-BlKdDwkLiWmbgUspmQ.png)
 
 ### Adding Tasks
 
 To add a task, click the option available in the top left corner, which presents a pre-generated form requesting basic information for collecting data for a specific task. The form includes the following details:
 
-![wUOwpEAQil9TaCQePsF09yKT21wUGdl1Zg.png](Tasks%20894b2282d8444977b72a31ad7a2d8f7c/wUOwpEAQil9TaCQePsF09yKT21wUGdl1Zg.png)
+![wUOwpEAQil9TaCQePsF09yKT21wUGdl1Zg.png](Tasks/wUOwpEAQil9TaCQePsF09yKT21wUGdl1Zg.png)
 
 1. **Title**: The name or tag by which the task is identified and accessed.
 2. **Task Category**: Tasks can be categorized based on your preferences, with categories selectable from this slot in the form.
@@ -25,11 +25,11 @@ To add a task, click the option available in the top left corner, which presents
 11. **Checkbox**: Customizable checkboxes for task features, allowing users to specify their preferences.
 12. **Files**: Adding required files for individual tasks, facilitating easy access later.
     
-    ![cw_NvZA_sE9MkBzmO7xn3UeHezctyXHpKg.png](Tasks%20894b2282d8444977b72a31ad7a2d8f7c/cw_NvZA_sE9MkBzmO7xn3UeHezctyXHpKg.png)
+    ![cw_NvZA_sE9MkBzmO7xn3UeHezctyXHpKg.png](Tasks/cw_NvZA_sE9MkBzmO7xn3UeHezctyXHpKg.png)
     
 
 ### Viewing Individual Tasks
 
 When you view individual tasks, you can access information from basic task details to the descriptive data associated with it. It presents details about the task, project, description, priority status, work status, dates, and time logged until its completion. This comprehensive view enhances understanding and task management, providing all the necessary information at a glance.
 
-![8BORRrHQw4UPpWqz8KUN47fqojuo7djWXg.png](Tasks%20894b2282d8444977b72a31ad7a2d8f7c/8BORRrHQw4UPpWqz8KUN47fqojuo7djWXg.png)
+![8BORRrHQw4UPpWqz8KUN47fqojuo7djWXg.png](Tasks/8BORRrHQw4UPpWqz8KUN47fqojuo7djWXg.png)
