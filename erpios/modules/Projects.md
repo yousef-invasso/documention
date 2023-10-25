@@ -6,7 +6,7 @@ A project is a carefully planned undertaking, conducted individually or collabor
 
 The Projects section under the Work Module primarily records all projects undertaken by the company for its clients. It includes project details such as team members, deadlines, clients, completion status, and various other options, such as editing, viewing the project as a Gantt Chart, archiving, and project deletion.
 
-![jZ8EfD_DIDkNy4QF-VHGUkEn6osRzl0CIA.png](Projects%20682ab46e046e43cdaf171b609d863cf1/jZ8EfD_DIDkNy4QF-VHGUkEn6osRzl0CIA.png)
+![jZ8EfD_DIDkNy4QF-VHGUkEn6osRzl0CIA.png](Projects/jZ8EfD_DIDkNy4QF-VHGUkEn6osRzl0CIA.png)
 
 ### Adding New Projects
 
@@ -14,13 +14,13 @@ Adding new projects is simple. By clicking on the "Add Project" option in the to
 
 The Add Project form includes fields for Project Name, Start Date, Deadline, Project Category, Department, Client, Project Summary, Notes, Project Members, and any other necessary details.
 
-![muQBXBbXwVxmwUP3wobHkADja6PVlrrmDw.png](Projects%20682ab46e046e43cdaf171b609d863cf1/muQBXBbXwVxmwUP3wobHkADja6PVlrrmDw.png)
+![muQBXBbXwVxmwUP3wobHkADja6PVlrrmDw.png](Projects/muQBXBbXwVxmwUP3wobHkADja6PVlrrmDw.png)
 
 ### Project Templates
 
 Next to the "Add Project" option, there is an option to "Add Project Templates." This feature enables you to quickly create projects by selecting a template, which saves time. The template form requires details like Project Name, Project Category, Project Summary, Notes, and checkboxes to customize the template.
 
-![DAU26SLkdJ7lWKylyxe7Adc0sOXRdsfRbA.png](Projects%20682ab46e046e43cdaf171b609d863cf1/DAU26SLkdJ7lWKylyxe7Adc0sOXRdsfRbA.png)
+![DAU26SLkdJ7lWKylyxe7Adc0sOXRdsfRbA.png](Projects/DAU26SLkdJ7lWKylyxe7Adc0sOXRdsfRbA.png)
 
 ### Viewing Individual Projects
 
