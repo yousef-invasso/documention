@@ -4,7 +4,7 @@
 
 The Time Logs panel within the Work Module focuses on recording the time required for individual tasks, which is stored in the database and later contributes to calculating the total time logged for each project. This section is essential for calculating average task completion times when generating reports for analysis.
 
-![CafsBGIH-uB_0QtrvSiXK3_CYgHG-qg9-w.png](Time%20Logs%205c46824ce4514236a21092828cb67ae2/CafsBGIH-uB_0QtrvSiXK3_CYgHG-qg9-w.png)
+![CafsBGIH-uB_0QtrvSiXK3_CYgHG-qg9-w.png](Time%20Logs/CafsBGIH-uB_0QtrvSiXK3_CYgHG-qg9-w.png)
 
 ### Logging Time
 
@@ -21,13 +21,13 @@ When logging time, you'll need to provide the following basic details:
 
 The logged information is displayed in a tabular format in the final list, making it easy to track and analyze.
 
-![Qsnv3E7abl5wJcGud5HoN5GMNFsmhPORrA.png](Time%20Logs%205c46824ce4514236a21092828cb67ae2/Qsnv3E7abl5wJcGud5HoN5GMNFsmhPORrA.png)
+![Qsnv3E7abl5wJcGud5HoN5GMNFsmhPORrA.png](Time%20Logs/Qsnv3E7abl5wJcGud5HoN5GMNFsmhPORrA.png)
 
 ### Viewing Individual Time Logs
 
 If you wish to view time logs for individual tasks, click on the task name, which serves as a hyperlink, redirecting you to the next page with detailed information.
 
-![3MXFOeOOl-QiMUroocH6shO1EK0Jj3REKQ.png](Time%20Logs%205c46824ce4514236a21092828cb67ae2/3MXFOeOOl-QiMUroocH6shO1EK0Jj3REKQ.png)
+![3MXFOeOOl-QiMUroocH6shO1EK0Jj3REKQ.png](Time%20Logs/3MXFOeOOl-QiMUroocH6shO1EK0Jj3REKQ.png)
 
 The individual viewing page includes the following details:
 
