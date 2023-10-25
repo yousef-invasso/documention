@@ -1,16 +1,16 @@
-# Tickets Module
+# Tickets
 
-## Tickets
+## Overview
 
 Tickets serve as a means to raise problems, queries, incidents, or discussions related to various topics by clients, customers, or employees, which require attention and resolution.
 
-![yevfCqBccUwf44AzhGKy_zk6EfYcwfeYvg.png](Tickets%20Module%2003862bdfc4bf4ffbb6d9ad10a61a10bb/yevfCqBccUwf44AzhGKy_zk6EfYcwfeYvg.png)
+![yevfCqBccUwf44AzhGKy_zk6EfYcwfeYvg.png](Tickets/yevfCqBccUwf44AzhGKy_zk6EfYcwfeYvg.png)
 
 ### Overview
 
 The Tickets module consolidates all details related to different issues and discussions in one organized space. The module starts with an overview section that displays statistics regarding the types of tickets handled by the organization. It includes numerical data on various categories:
 
-![5F5zlcmEVnT-nsVSIi-AeVCwUHX2bf0Tzg.png](Tickets%20Module%2003862bdfc4bf4ffbb6d9ad10a61a10bb/5F5zlcmEVnT-nsVSIi-AeVCwUHX2bf0Tzg.png)
+![5F5zlcmEVnT-nsVSIi-AeVCwUHX2bf0Tzg.png](Tickets/5F5zlcmEVnT-nsVSIi-AeVCwUHX2bf0Tzg.png)
 
 - Total Tickets: The total number of tickets.
 - Closed Tickets: Tickets that have been resolved and closed.
@@ -24,7 +24,7 @@ Beneath the numerical data, a tabular format displays all the received tickets, 
 
 To add a new received ticket to the existing list, a "Create Ticket" form must be filled out. The form includes several fields:
 
-![OlC0cHKxC7iE6f0a7wodgwp19dt8Zexkvw.png](Tickets%20Module%2003862bdfc4bf4ffbb6d9ad10a61a10bb/OlC0cHKxC7iE6f0a7wodgwp19dt8Zexkvw.png)
+![OlC0cHKxC7iE6f0a7wodgwp19dt8Zexkvw.png](Tickets/OlC0cHKxC7iE6f0a7wodgwp19dt8Zexkvw.png)
 
 1. **Requester**: A checkbox option to specify whether the ticket is raised by a client or an employee.
 2. **Requester Name**: The name of the person raising the ticket.
@@ -47,6 +47,6 @@ After making selections or modifications, a preview form is available to review 
 
 The Tickets module plays a vital role in addressing and resolving issues and concerns raised by both employees and clients. By efficiently managing and resolving tickets, organizations can make significant improvements in their operations and customer service.
 
-![dX2dzDo-ZQsIcKL28E5hddDJTAuNhsHyRw.png](Tickets%20Module%2003862bdfc4bf4ffbb6d9ad10a61a10bb/dX2dzDo-ZQsIcKL28E5hddDJTAuNhsHyRw.png)
+![dX2dzDo-ZQsIcKL28E5hddDJTAuNhsHyRw.png](Tickets/dX2dzDo-ZQsIcKL28E5hddDJTAuNhsHyRw.png)
 
 **Please note that this is a general description of a Tickets module. Specific features may vary based on the software or platform used.**
