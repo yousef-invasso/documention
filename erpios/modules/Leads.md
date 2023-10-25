@@ -58,4 +58,4 @@ Customize lead forms to gather only the necessary information for your organizat
 
 ![Untitled](Leads/Untitled%203.png)
 
-![Untitled](Leads%20Module%203761549980614a4b8d3981a16881c5e8/Untitled%204.png)
+![Untitled](Leads/Untitled%204.png)
