@@ -34,9 +34,9 @@ To add new customers to your organization, follow these steps:
 
 This information is crucial for adding new clients to your organization's customer base.
 
-![Untitled](Clients%20Module%20a3b6359bc2354639b3b35451b2ea3e82/Untitled%201.png)
+![Untitled](Clients/Untitled%201.png)
 
-![Untitled](Clients%20Module%20a3b6359bc2354639b3b35451b2ea3e82/Untitled%202.png)
+![Untitled](Clients/Untitled%202.png)
 
 ### Individual Client Details
 
