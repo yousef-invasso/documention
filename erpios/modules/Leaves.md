@@ -6,7 +6,7 @@ The Leaves section compiles data for leaves taken by all employees within the or
 
 ### Leave Records
 
-![Untitled](Leaves%20708f06b4ded0416e89378b3013e7484c/Untitled.png)
+![Untitled](Leaves/Untitled.png)
 
 Leave data includes Employee's name, Leaves Date, Leaves Category, Leaves Status, and additional features for editing and deletion. It also provides a descriptive view (holding the Reason for Absence), approval, and rejection. Admins or individuals with permission can manage approvals and rejections.
 
