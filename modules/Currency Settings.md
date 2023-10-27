@@ -4,7 +4,7 @@
 
 Managing and customizing the financial aspects of the organization, especially concerning commonly used currencies, is a critical aspect of financial control. This section provides the space for customization, simplifying the process of handling various currencies and enabling users to switch to their preferred currencies for financial management.
 
-![2bHaYnhVo6bUt4ymcY9tXfXcRgAK5AMK8w.png](Currency%20Settings%20b464727765914e13be3a6af677585648/2bHaYnhVo6bUt4ymcY9tXfXcRgAK5AMK8w.png)
+![2bHaYnhVo6bUt4ymcY9tXfXcRgAK5AMK8w.png](Currency%20Settings/2bHaYnhVo6bUt4ymcY9tXfXcRgAK5AMK8w.png)
 
 ### CURRENCY FORMAT SETTINGS
 
