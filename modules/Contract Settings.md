@@ -4,7 +4,7 @@
 
 contract Settings are parameters that define how contracts are labeled and numbered within the system. These settings include:
 
-![Untitled](Contract%20Settings%20becd1ec94f594ac48014dfd8eda93327/Untitled.png)
+![Untitled](Contract%20Settings/Untitled.png)
 
 - **Contract Prefix**: A specific prefix added to each contract number, such as "CONT" for contracts.
 - **Contract Number Separator**: A character like "#" used to separate the prefix and the contract number.
