@@ -4,7 +4,7 @@
 
 The "Company Settings" section plays a fundamental role in understanding and controlling the overall system settings. This section is dedicated to managing essential company details that are commonly utilized in various legal and non-legal documents such as estimates, invoices, contracts, and more.
 
-![Untitled](Company%20Settings%208a9c4b5045f243aa9c6a0af457209093/Untitled.png)
+![Untitled](Company%20Settings/Untitled.png)
 
 ### 1. COMPANY NAME
 
