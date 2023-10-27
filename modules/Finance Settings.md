@@ -10,4 +10,4 @@ The Finance Settings section primarily focuses on configuring default yet essent
 
 Other available settings let you define due dates, reminders, GST numbers, invoice details, language preferences, terms and conditions, and templates. These settings offer easy customization to tailor the system to your specific requirements.
 
-![Screenshot from 2023-10-27 07-12-13.png](Finance%20Settings%20c482edd0e73742368068a002184feb8d/Screenshot_from_2023-10-27_07-12-13.png)
+![Screenshot from 2023-10-27 07-12-13.png](Finance%20Settings/Screenshot_from_2023-10-27_07-12-13.png)
