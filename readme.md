@@ -37,7 +37,7 @@
     - [App Settings](./modules/App%20Settings.md)
     - [Profile Settings](./modules/Profile%20Settings.md)
     - [Currency Settings](./modules/Currency%20Settings.md)
-    - [Payment Credentials](./modules/Payment%20Credentials.md)
+    - [Payments Credentials](./modules/Payments%20Credentials.md)
     - [Finance Settings](./modules/Finance%20Settings.md)
     - [Ticket Settings](./modules/Ticket%20Settings.md)
     - [Project Settings](./modules/Project%20Settings.md)
