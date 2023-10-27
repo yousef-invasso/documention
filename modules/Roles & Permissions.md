@@ -6,7 +6,7 @@ Moreover, the "Manage Roles" option in this section allows organizations to crea
 
 It's important to note that administrators are granted unrestricted access, and their roles and permissions cannot be modified.
 
-![CMKrijbULiUFuHY6ztUGIvsLbDRGFMIGNw.png](Roles%20&%20Permissions%20cc5d1044d5474d47af4a54c2ae51e152/CMKrijbULiUFuHY6ztUGIvsLbDRGFMIGNw.png)
+![CMKrijbULiUFuHY6ztUGIvsLbDRGFMIGNw.png](Roles%20&%20Permissions/CMKrijbULiUFuHY6ztUGIvsLbDRGFMIGNw.png)
 
 There are five primary permission types:
 
