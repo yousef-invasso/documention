@@ -4,7 +4,7 @@
 
 Customizing your profile to your preferences adds a personal touch to your workspace. The Profile Settings feature allows you to edit and personalize your profile with your general details.
 
-![EAUf-35CfsyfOXuN2OKTz7k0AgSxRCKC9Q.png](Profile%20Settings%20bc19000ee701413b82b418cd60a6f035/EAUf-35CfsyfOXuN2OKTz7k0AgSxRCKC9Q.png)
+![EAUf-35CfsyfOXuN2OKTz7k0AgSxRCKC9Q.png](Profile%20Settings/EAUf-35CfsyfOXuN2OKTz7k0AgSxRCKC9Q.png)
 
 ### 1. NAME
 
