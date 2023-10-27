@@ -12,4 +12,4 @@ This section provides customization options for various features, including offi
 
 Customizing these attendance settings helps manage employee attendance effectively and ensures accurate record-keeping.
 
-![dYlM3PwSmiuG47h3yfSCcFpoQnrbCM_nOA.png](Attendance%20Settings%208c1a8c0d64f74ee68e41217892306e40/dYlM3PwSmiuG47h3yfSCcFpoQnrbCM_nOA.png)
+![dYlM3PwSmiuG47h3yfSCcFpoQnrbCM_nOA.png](Attendance%20Settings/dYlM3PwSmiuG47h3yfSCcFpoQnrbCM_nOA.png)
