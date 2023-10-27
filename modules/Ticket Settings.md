@@ -9,4 +9,4 @@ Ticket settings are vital for managing communication and support within the orga
 - **Ticket Channels:** This setting enables or disables the various channels through which individuals can submit tickets, ensuring that ticket submissions are controlled and directed appropriately.
 - **Reply Templates:** Reply templates are pre-generated messages that can be sent to individuals who have raised tickets, acknowledging their concerns and assuring them of a prompt response.
     
-    ![iyyS3EXXscjea8Ai9PlUoz_q-r-itq6FPQ.png](Ticket%20Settings%200d354a2998684024a46a0cc8072c3232/iyyS3EXXscjea8Ai9PlUoz_q-r-itq6FPQ.png)
+    ![iyyS3EXXscjea8Ai9PlUoz_q-r-itq6FPQ.png](Ticket%20Settings/iyyS3EXXscjea8Ai9PlUoz_q-r-itq6FPQ.png)
