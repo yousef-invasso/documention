@@ -4,7 +4,7 @@
 
 App Settings serve as the cornerstone for maintaining uniformity and consistency across all user systems connected to the company's database. These settings control various aspects of the application and ensure a standardized user experience.
 
-![Untitled](App%20Settings%207d9442f10eb14fe791a89f60eb43234b/Untitled.png)
+![Untitled](App%20Settings/Untitled.png)
 
 ### 1. DATE FORMAT
 
