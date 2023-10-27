@@ -4,4 +4,4 @@
 
 One key choice is whether clients can directly communicate with administrators or employees and vice versa. This decision determines the level of interaction permitted between clients and the internal team, shaping the communication dynamics within the system.
 
-![qRWTO_NC2wjJfiEtd426kKLh8OWLecsUCg.png](Message%20Settings%20aec767f739ea48da967c75d16bcd9b9c/qRWTO_NC2wjJfiEtd426kKLh8OWLecsUCg.png)
+![qRWTO_NC2wjJfiEtd426kKLh8OWLecsUCg.png](Message%20Settings/qRWTO_NC2wjJfiEtd426kKLh8OWLecsUCg.png)
